@@ -17,19 +17,17 @@
 
 .thumbnail:hover {
 	opacity: 0.5;
+	color: green;
 }	
 @media only screen and (max-width: 768px) {
 
 	.nav li{
 	  display: inline-block;
 	  text-align: center;
-  }
-
-  	.navbar-nav {
-  		clear: both;
   	}
 
-	.panel {
-		clear: both;
+	.container-fluid {
+		text-align: center;
 	}
+
 }
