@@ -1,18 +1,5 @@
-.aboutme {
-	font-family: sans-serif, arial;
-	font-size: 18px;
-}
-
 .panel-body li:hover {
 	opacity: 0.5;
-}
-
-.panel-default {
-	margin-top: 20px;
-}
-
-.container {
-	margin-bottom: 20px;
 }
 
 .thumbnail:hover {
